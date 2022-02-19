@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tegaspermana
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning CSS, Bootstrap, JavaScript, NodeJS and TailwindCSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at tegas@studiosimulasi.id
 
 <!---
 tegaspermana/tegaspermana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
